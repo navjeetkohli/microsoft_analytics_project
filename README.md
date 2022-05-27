@@ -77,6 +77,5 @@ All these packages (except Python) are present in the Requirements.txt file.
 6. Play with the App.
 ## Useful Links
 
-- [Deployed Website](link)
-- [Demo Video](link)"# streamlit-to-heroku-tutorial" 
-"# predictify-engage" 
+- [Deployed Website](https://microsoft-app-demo.herokuapp.com/)
+- [Demo Video](link)"
