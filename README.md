@@ -10,13 +10,17 @@
 - ### Analyze Data of Used cars
     - Get Graphical Representation of Most Asked Queries
         - Bar Plots, Scatter Plots, Pie Charts
-        ()[images/img_1.png]
+        ![](images/img_1.png)
+        ![](images/img_2.png)
     
 - ### Predict Selling Price of your Used Car
     - A Machine Learning model which predicts selling price based on features like:
         - Year, Kilometer driven, Engine, Mileage, Seats, Fuel type, Seller type, Company name, Max power
+        ![](images/img_3.png)
+        ![](images/img_4.png)
 - ### Contact Us Form
     - Get in Touch with Us for any Query you have regarding the application.
+    ![](images/img_5.png)
 
 
 
@@ -25,6 +29,7 @@
 - Python - Machine learning Model
 - Streamlit - Frontend UI
 - Heroku - Deploy 
+![](images/techstack.png)
 
 ## Process Used to build the App
 
