@@ -10,6 +10,7 @@
 - ### Analyze Data of Used cars
     - Get Graphical Representation of Most Asked Queries
         - Bar Plots, Scatter Plots, Pie Charts
+        ()[images/img_1.png]
     
 - ### Predict Selling Price of your Used Car
     - A Machine Learning model which predicts selling price based on features like:
